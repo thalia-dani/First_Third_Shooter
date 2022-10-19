@@ -1,2 +1,2 @@
 # First_Third_Shooter
-Projeto criado na Unreal Engine
+Projeto de um jogo de tiro em terceira pessoa criado na Unreal Engine
